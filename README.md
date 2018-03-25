@@ -5,6 +5,8 @@ MdtSec is a simple tool for web information
 
 <h1>How to install</h1>
 <br>
-<h1>1</h1>
+
 <br>
-<font color="red">chmod +x install.sh && ./install.sh</font>
+<h1>1 - </h1><font>chmod +x install.sh && ./install.sh</font>
+<h1>2 - </h1><font>pip install -r requirements.txt</font>
+<h1>3 - </h1><font>python mdtsec.py</font>
