@@ -1,7 +1,7 @@
 # MDTSEC
 MdtSec is a simple tool for web information
 
-<img src="https://i.imgur.com/S1kUsuR.png">
+<img src="https://i.imgur.com/dOr7Zya.png">
 
 <h1>How to install</h1>
 <br>
